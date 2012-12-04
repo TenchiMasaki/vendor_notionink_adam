@@ -127,3 +127,5 @@ PRODUCT_COPY_FILES := \
 	vendor/notionink/adam/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
 	vendor/notionink/adam/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
 	vendor/notionink/adam/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
+	vendor/notionink/adam/proprietary/lib/libwvm.so:system/lib/libwvm.so \
+	vendor/notionink/adam/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
