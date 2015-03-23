@@ -126,4 +126,4 @@ PRODUCT_COPY_FILES := \
 	vendor/notionink/adam/proprietary/lib/egl/libGLESv2_perfhud.so:system/lib/egl/libGLESv2_perfhud.so \
 	vendor/notionink/adam/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
 	vendor/notionink/adam/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
-	vendor/notionink/adam/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
+	vendor/notionink/adam/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra_v0.so \
